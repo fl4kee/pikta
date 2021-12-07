@@ -22,7 +22,7 @@ def get_headers(json_file: dict) -> tuple:
                 "header_text": entry["properties"]["QuickInfo"],
             }
         )
-    # sorting list in order to place them correctly in table
+    # sorting list in order to place headers correctly in table
     headers_row.sort(key=lambda x: int(x["X"]))
 
     # creating dict for filling right fields with values
