@@ -1,7 +1,7 @@
 ==================
 Тестовое задание
 ==================
-| 1 Скопировать репозиторий $ git clone https://github.com/fl4kee/pikta
+| 1 Скопировать репозиторий $ git clone https://github.com/fl4kee/pikta && cd pikta
 |
 | 2 Установить и активировать виртуальное окружение $ python3 -m venv venv && source venv/bin/activate
 |  
